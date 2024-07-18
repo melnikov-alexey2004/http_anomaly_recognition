@@ -1,5 +1,5 @@
 
-#HTTP Anomaly Detection Classifier
+#HTTP Anomaly Detection Classifier#
 ##Introduction
 The classifier uses HTTP DATASET CSIC 2010 to train the model for detection of malicious HTTP requests. For this purpose, the One Class SVM model is used with "rbf" kernel and appropriate feature extraction methods in order to obtain sufficient results.
 

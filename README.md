@@ -20,27 +20,29 @@ With correctly chosen parameters, classifier showed sufficient results for anoma
 With growing amount of data, SVM model grows with amount of support vectors, which also causes problems in performance. To reduce the time of computation, multilayer perceptron models (ANN) seems like a good option (since their "trained" weights are of fixed size and do not grow with data).
 
 # Literature
-Althubiti, Sara A.. “Analyzing HTTP requests for web intrusion detection.” (2017).
+`Althubiti, Sara A.. “Analyzing HTTP requests for web intrusion detection.” (2017).
 Epp, Nico & Funk, Ralf & Cappo, Cristian. (2017). Anomaly-based Web Application Firewall using HTTP-specific features and One-Class SVM.
+Watch прикрепленные статьи`
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-- [ ] \(Optional) Open a followup issue
+- [x] RL
+- [ ] ML
+- [ ] DL
+- [ ] \(Optional) SOM. Watch article
 
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^1]: [Web Servers Protection Using AnomalyDetection for HTTP Requests](https://www.researchgate.net/publication/339382341_Web_Servers_Protection_Using_Anomaly_Detection_for_HTTP_Requests)
+[^2]: [ОБНАРУЖЕНИЕ АТАК НА ВЕБ-ПРИЛОЖЕНИЕ
+С ПОМОЩЬЮ САМООРГАНИЗУЮЩИХСЯ
+КАРТ КОХОНЕНА](https://cyberrus.info/wp-content/uploads/2024/02/vokib-2024-1-st04-s038-044.pdf)
 
 
 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Работа еще
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
